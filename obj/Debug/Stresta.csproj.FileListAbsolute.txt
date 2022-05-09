@@ -1,0 +1,255 @@
+C:\Users\mento\source\repos\Stresta\Stresta\obj\Debug\Stresta.Form1.resources
+C:\Users\mento\source\repos\Stresta\Stresta\obj\Debug\Stresta.Properties.Resources.resources
+C:\Users\mento\source\repos\Stresta\Stresta\obj\Debug\Stresta.csproj.GenerateResource.cache
+C:\Users\mento\source\repos\Stresta\Stresta\obj\Debug\Stresta.csproj.CoreCompileInputs.cache
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\Stresta.exe.config
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\Stresta.exe
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\Stresta.pdb
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\MySql.Data.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\Google.Protobuf.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\Zstandard.Net.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\System.Buffers.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\MySql.Data.xml
+C:\Users\mento\source\repos\Stresta\Stresta\obj\Debug\Stresta.csproj.CopyComplete
+C:\Users\mento\source\repos\Stresta\Stresta\obj\Debug\Stresta.exe
+C:\Users\mento\source\repos\Stresta\Stresta\obj\Debug\Stresta.pdb
+C:\Users\mento\source\repos\Stresta\Stresta\obj\Debug\RdlCompile.cache
+C:\Users\mento\source\repos\Stresta\Stresta\obj\Debug\RdlCompile.compiled
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\EnvDTE.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\stdole.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\Microsoft.MSXML.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mento\source\repos\Stresta\Stresta\obj\Debug\Stresta.PRINT.printforma.resources
+C:\Users\mento\source\repos\Stresta\Stresta\obj\Debug\Stresta.menu.resources
+C:\Users\mento\source\repos\Stresta\Stresta\obj\Debug\Stresta.qmimet.resources
+C:\Users\mento\source\repos\Stresta\Stresta\obj\Debug\Stresta.pazaret.resources
+C:\Users\mento\source\repos\Stresta\Stresta\obj\Debug\Stresta.add.resources
+C:\Users\mento\source\repos\Stresta\Stresta\obj\Debug\Stresta.csprojAssemblyReference.cache
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\Stresta.exe.config
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\Stresta.exe
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\Stresta.pdb
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\EnvDTE.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\Google.Protobuf.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\stdole.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\Microsoft.MSXML.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mento\Desktop\Stresta\Stresta\obj\Debug\Stresta.add.resources
+C:\Users\mento\Desktop\Stresta\Stresta\obj\Debug\Stresta.Form1.resources
+C:\Users\mento\Desktop\Stresta\Stresta\obj\Debug\Stresta.menu.resources
+C:\Users\mento\Desktop\Stresta\Stresta\obj\Debug\Stresta.pazaret.resources
+C:\Users\mento\Desktop\Stresta\Stresta\obj\Debug\Stresta.Properties.Resources.resources
+C:\Users\mento\Desktop\Stresta\Stresta\obj\Debug\Stresta.qmimet.resources
+C:\Users\mento\Desktop\Stresta\Stresta\obj\Debug\Stresta.csproj.GenerateResource.cache
+C:\Users\mento\Desktop\Stresta\Stresta\obj\Debug\RdlCompile.cache
+C:\Users\mento\Desktop\Stresta\Stresta\obj\Debug\RdlCompile.compiled
+C:\Users\mento\Desktop\Stresta\Stresta\obj\Debug\Stresta.csproj.CoreCompileInputs.cache
+C:\Users\mento\Desktop\Stresta\Stresta\obj\Debug\Stresta.csproj.CopyComplete
+C:\Users\mento\Desktop\Stresta\Stresta\obj\Debug\Stresta.exe
+C:\Users\mento\Desktop\Stresta\Stresta\obj\Debug\Stresta.pdb
+C:\Users\mento\Desktop\Stresta\Stresta\obj\Debug\Stresta.PRINT.printushqim.resources
+C:\Users\mento\Desktop\Stresta\Stresta\obj\Debug\Stresta.user.resources
+C:\Users\mento\Desktop\Stresta\Stresta\obj\Debug\Stresta.csprojAssemblyReference.cache
+D:\vs program\Stresta\Stresta\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\vs program\Stresta\Stresta\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\vs program\Stresta\Stresta\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\vs program\Stresta\Stresta\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\vs program\Stresta\Stresta\bin\Debug\Stresta.exe.config
+D:\vs program\Stresta\Stresta\bin\Debug\Stresta.exe
+D:\vs program\Stresta\Stresta\bin\Debug\Stresta.pdb
+D:\vs program\Stresta\Stresta\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\vs program\Stresta\Stresta\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\vs program\Stresta\Stresta\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\vs program\Stresta\Stresta\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\vs program\Stresta\Stresta\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\vs program\Stresta\Stresta\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\vs program\Stresta\Stresta\bin\Debug\EnvDTE.dll
+D:\vs program\Stresta\Stresta\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\vs program\Stresta\Stresta\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\vs program\Stresta\Stresta\bin\Debug\Google.Protobuf.dll
+D:\vs program\Stresta\Stresta\bin\Debug\BouncyCastle.Crypto.dll
+D:\vs program\Stresta\Stresta\bin\Debug\Ubiety.Dns.Core.dll
+D:\vs program\Stresta\Stresta\bin\Debug\stdole.dll
+D:\vs program\Stresta\Stresta\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\vs program\Stresta\Stresta\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\vs program\Stresta\Stresta\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\vs program\Stresta\Stresta\bin\Debug\System.Buffers.dll
+D:\vs program\Stresta\Stresta\bin\Debug\K4os.Hash.xxHash.dll
+D:\vs program\Stresta\Stresta\bin\Debug\Microsoft.MSXML.dll
+D:\vs program\Stresta\Stresta\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\vs program\Stresta\Stresta\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\vs program\Stresta\Stresta\obj\Debug\Stresta.add.resources
+D:\vs program\Stresta\Stresta\obj\Debug\Stresta.Form1.resources
+D:\vs program\Stresta\Stresta\obj\Debug\Stresta.menu.resources
+D:\vs program\Stresta\Stresta\obj\Debug\Stresta.pazaret.resources
+D:\vs program\Stresta\Stresta\obj\Debug\Stresta.PRINT.printushqim.resources
+D:\vs program\Stresta\Stresta\obj\Debug\Stresta.Properties.Resources.resources
+D:\vs program\Stresta\Stresta\obj\Debug\Stresta.qmimet.resources
+D:\vs program\Stresta\Stresta\obj\Debug\Stresta.user.resources
+D:\vs program\Stresta\Stresta\obj\Debug\Stresta.csproj.GenerateResource.cache
+D:\vs program\Stresta\Stresta\obj\Debug\RdlCompile.cache
+D:\vs program\Stresta\Stresta\obj\Debug\RdlCompile.compiled
+D:\vs program\Stresta\Stresta\obj\Debug\Stresta.csproj.CoreCompileInputs.cache
+D:\vs program\Stresta\Stresta\obj\Debug\Stresta.csproj.CopyComplete
+D:\vs program\Stresta\Stresta\obj\Debug\Stresta.exe
+D:\vs program\Stresta\Stresta\obj\Debug\Stresta.pdb
+D:\vs program\Stresta\Stresta\obj\Debug\Stresta.tavolinat.resources
+D:\vs program\Stresta\Stresta\obj\Debug\Stresta.selekto.resources
+D:\vs program\Stresta\Stresta\obj\Debug\Stresta.csprojAssemblyReference.cache
+C:\Users\mento\Desktop\Stresta\Stresta\obj\Debug\Stresta.selekto.resources
+C:\Users\mento\Desktop\Stresta\Stresta\obj\Debug\Stresta.tavolinat.resources
